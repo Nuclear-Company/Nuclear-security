@@ -19,3 +19,7 @@ If you encounter any problems, please contact nuclear.company2@gmail.com
 ## News 📫:
 The developers are currently working on adding new features to Nuclear Security.
 (such as compatibility with other operating systems)
+## Thank you🧡
+For any problem encountered in the course, please contact us to find a solution, thank you.
+
+**V1.0 (STABLE) V1.1 (STABLE) V1.2 coming soon**
