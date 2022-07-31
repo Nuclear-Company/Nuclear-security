@@ -16,3 +16,6 @@ The only current requirement is to have the Pyton version compatible with the pa
 Install the py.file (we recommend the latest version)
 then trust the author (Nuclear Company) and finally run the file in terminal.
 If you encounter any problems, please contact nuclear.company2@gmail.com
+## News 📫:
+The developers are currently working on adding new features to Nuclear Security.
+(such as compatibility with other operating systems)
