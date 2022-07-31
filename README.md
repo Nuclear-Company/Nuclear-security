@@ -5,7 +5,7 @@
   </a>
 </div>
 
-## Presentation 📚:
+## The project 📚:
 What is Nuclear Security?
 Nuclear Security is a program that guarantees security on the web, in fact one of its first functions is to generate random passwords with +42,000 different combinations. Furthermore, the function has recently been implemented: Ping,
 with the latter, you can ping the github servers
