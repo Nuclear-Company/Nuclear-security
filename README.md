@@ -16,6 +16,6 @@ Obviously in the future the developers will proceed with the implementation of o
 ## How to run Nuclear Security🔎:
 Nuclear Security is a script that has countless installs / executions.
 The only current requirement is to have the Pyton version compatible with the pack.
-Then install the py.file (we recommend the latest version)
+Install the py.file (we recommend the latest version)
 then trust the author (Nuclear Company) and finally run the file in terminal.
 If you encounter any problems, please contact nuclear.company2@gmail.com
