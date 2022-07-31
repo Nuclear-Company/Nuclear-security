@@ -22,4 +22,5 @@ The developers are currently working on adding new features to Nuclear Security.
 ## Thank you🧡
 For any problem encountered in the course, please contact us to find a solution, thank you.
 
-**V1.0 (STABLE) V1.1 (STABLE) V1.2 coming soon**
+**V1.0 (STABLE) V1.1 (STABLE). <br>
+ other versions coming soon...**
