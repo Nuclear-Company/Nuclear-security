@@ -1,7 +1,7 @@
 # Nuclear Security
 Nuclear Security is the first software developed by the Nuclear Company.
 Nuclear Security will facilitate and enhance your web experience with just a few clicks.
-#What can this software do?
+# What can this software do?
 ‣ Generate random passwords with +42,000 combinations,<br>
 ‣ Track your Hosts and IPs,<br>
 ‣ Ping the GitHub servers<br>
