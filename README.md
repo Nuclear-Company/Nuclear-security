@@ -12,3 +12,6 @@ Nuclear Security is a program developed in python, so to start it just select th
 # Requirements
 To start our software you just need to have the required extension.
 You can install it by opening the terminal and copying this text
+```
+pip install  tkinter
+```
