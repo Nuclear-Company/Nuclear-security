@@ -6,7 +6,7 @@ Nuclear Security will facilitate and enhance your web experience with just a few
 ‣ Track your Hosts and IPs,<br>
 ‣ Ping the GitHub servers<br>
 <br>
-all rights are reserved, find out more here
+all rights are reserved, find out more (here)[https://github.com/Nuclear-Company/Nuclear-security/blob/main/LICENCE]
 # How to run Nuclear Security
 Nuclear Security is a program developed in python, so to start it just select the most recent release, open it in any compatible program, trust Nuclear Company, and finally run!
 # Requirements
