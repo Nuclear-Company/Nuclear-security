@@ -8,7 +8,7 @@ Nuclear Security will facilitate and enhance your web experience with just a few
 <br>
 all rights are reserved, find out more [here](https://github.com/Nuclear-Company/Nuclear-security/blob/main/LICENCE)
 # How to run Nuclear Security
-Nuclear Security is a program developed in python, so to start it just select the most recent release, open it in any compatible program, trust Nuclear Company, and finally run!
+Nuclear Security is a program developed in [python](https://www.python.org/), so to start it just select the most recent release, open it in any compatible program, trust Nuclear Company, and finally run!
 # Requirements
 To start our software you just need to have the required extension.
 You can install it by opening the terminal and copying this text
