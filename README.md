@@ -19,5 +19,5 @@ Nuclear Security is a program developed in [python](https://www.python.org/), so
 To start our software you just need to have the required extension.
 You can install it by opening the terminal and copying this text
 ```
-pip install tk
+pip install 'pack name'
 ```
